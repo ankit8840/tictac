@@ -1,0 +1,35 @@
+body{
+	background-color: black;
+	color:white;
+}
+#table1{
+	width: 390px;
+	height: 65vh;
+	margin-top: 30px;
+	margin-left: 460px;
+	border:solid 2px white;
+}
+.row{
+	background:linear-gradient(45deg,#e60215,black);
+}
+td{
+	width: 100px;
+	height: 7vh;
+	text-align: center;
+	font-size: 55px;
+	color: white;
+}
+#display,h3{
+	margin-left: 500px;
+	margin-top: 50px;
+	padding: 5px;
+	background:linear-gradient(45deg,black,#e60215);
+	text-align: center;
+	display: inline-block;
+}
+
+button{
+	padding: 10px;
+	margin-left: 600px;
+
+}
